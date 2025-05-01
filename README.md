@@ -30,9 +30,16 @@ Passionate about programming for more than 30 years. Started with BASIC in the e
 ## 🧪 Recent Projects
 
 - [Countries Info App](https://countries-app-angular-19.vercel.app/) – Angular 19, Tailwind CSS, Restcountries API  
+  [View Code](https://github.com/diegobarroso/countries-app-angular-19)
+
 - [Realtime Chat](https://twiliochat.netlify.app/) – Angular, Twilio Conversations, Supabase Auth, Tailwind CSS  
+  [Frontend Code](https://github.com/diegobarroso/twilio-chat) · [Backend Code](https://github.com/diegobarroso/chat-server)
+
 - [WeatherApp](https://weatherappbydiegobarroso.netlify.app/) – Angular, RapidAPI, Materialize CSS  
-- [WikiSearch](https://wikisearchbydiegobarroso.netlify.app/) – Wikipedia API
+  [View Code](https://github.com/diegobarroso/weather)
+
+- [WikiSearch](https://wikisearchbydiegobarroso.netlify.app/) – Wikipedia API  
+  [View Code](https://github.com/diegobarroso/wikisearch)
 
 ---
 
@@ -58,5 +65,4 @@ CIFP A Carballeira (Ourense, Spain)
 - Spanish (Native)  
 - English (B2)  
 - Galician
-
 
