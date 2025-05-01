@@ -10,8 +10,7 @@ Passionate about programming for more than 30 years. Started with BASIC in the e
 - Email: [info@diegobarroso.es](mailto:info@diegobarroso.es)  
 - Website: [diegobarroso.es](https://diegobarroso.es)  
 - GitHub: [github.com/diegobarroso](https://github.com/diegobarroso)  
-- LinkedIn: [linkedin.com/in/diego-barroso](https://www.linkedin.com/in/diego-barroso)  
-- Phone: (+34) 637 027 058
+- LinkedIn: [linkedin.com/in/diego-barroso](https://www.linkedin.com/in/diego-barroso)
 
 ---
 
