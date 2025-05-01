@@ -1,16 +1,63 @@
-## Hi there 👋
+# Diego Gabriel Barroso Benítez
 
-<!--
-**diegobarroso/diegobarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer · MEAN Stack**  
+Passionate about programming for more than 30 years. Started with BASIC in the early 90s, and recently focused on Angular and TypeScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Contact
+
+- Email: [info@diegobarroso.es](mailto:info@diegobarroso.es)  
+- Website: [diegobarroso.es](https://diegobarroso.es)  
+- GitHub: [github.com/diegobarroso](https://github.com/diegobarroso)  
+- LinkedIn: [linkedin.com/in/diego-barroso](https://www.linkedin.com/in/diego-barroso)  
+- Phone: (+34) 637 027 058
+
+---
+
+## 💼 Work Experience
+
+- **Angular Developer** – NTT DATA  
+  *03/2023 – Present*
+- **Baker** – Ourense, Spain  
+  *05/2005 – 03/2023*
+- **Freelance Programmer** – Visual Basic 6 & SQL Server  
+  *03/2001 – 03/2003*
+- **Administrative Assistant** – Pedro de Elizalde Hospital, Buenos Aires  
+  *03/1995 – 03/2002*
+
+---
+
+## 🧪 Recent Projects
+
+- [Countries Info App](https://countries-app-angular-19.vercel.app/) – Angular 19, Tailwind CSS, Restcountries API  
+- [Realtime Chat](https://twiliochat.netlify.app/) – Angular, Twilio Conversations, Supabase Auth, Tailwind CSS  
+- [WeatherApp](https://weatherappbydiegobarroso.netlify.app/) – Angular, RapidAPI, Materialize CSS  
+- [WikiSearch](https://wikisearchbydiegobarroso.netlify.app/) – Wikipedia API
+
+---
+
+## 🧠 Skills
+
+- Angular  
+- TypeScript  
+- JavaScript  
+- HTML  
+- CSS
+
+---
+
+## 🎓 Education
+
+**Higher Cycle in Web Application Development**  
+CIFP A Carballeira (Ourense, Spain)
+
+---
+
+## 🌍 Languages
+
+- Spanish (Native)  
+- English (B2)  
+- Galician
+
+
